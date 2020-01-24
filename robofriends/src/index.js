@@ -5,7 +5,7 @@ import './index.css';
 //import Hello from './Hello'
 //import Card from './Card'
 //import CardList from './CardList'
-import Main from './Main'
+import Main from './containers/Main'
 import * as serviceWorker from './serviceWorker';
 import 'tachyons'
 //import { robots } from './robots';
